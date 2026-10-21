@@ -1,3 +1,6 @@
+#name: Nsengimana Gilbert
+#Regno: 224014348
+
 # Telco Customer Churn Analysis
 
 **A Data Preprocessing and Exploratory Data Analysis Lab Using Python**
