@@ -1,5 +1,5 @@
-#name: Nsengimana Gilbert
-#Regno: 224014348
+# name: Nsengimana Gilbert
+# Regno: 224014348
 
 # Telco Customer Churn Analysis
 
